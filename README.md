@@ -1,8 +1,8 @@
 # DeepLearningBookQA_cn
-深度学习面试问题 回答对应的DeepLearning中文版页码
+
+<img src="http://file.epubit.com.cn/ScreenShow/1707d90d7c6c6aa54cca" width = "20%" />
 
 ### 那些深度学习《面试》你可能需要知道的（中文页标版）
-![](http://file.epubit.com.cn/ScreenShow/1707d90d7c6c6aa54cca)
 
 #### 本文原作者Jin Lee，本文原载于知乎专栏。
 问题集： https://zhuanlan.zhihu.com/p/29936999
