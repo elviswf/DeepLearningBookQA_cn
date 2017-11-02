@@ -1,6 +1,6 @@
 # DeepLearningBookQA_cn
 
-<img src="http://file.epubit.com.cn/ScreenShow/1707d90d7c6c6aa54cca" width = "20%" />
+<!---<img src="http://file.epubit.com.cn/ScreenShow/1707d90d7c6c6aa54cca" width = "20%" />-->
 
 ### 那些深度学习《面试》你可能需要知道的（中文页标版）
 
